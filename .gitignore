@@ -43,4 +43,6 @@ gradle_build*.log
 /ios
 /android
 
-.envweb/public/*.apk
+.env
+web/public/*.apk
+server/.env
